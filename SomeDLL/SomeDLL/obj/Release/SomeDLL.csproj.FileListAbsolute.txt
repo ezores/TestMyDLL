@@ -1,0 +1,6 @@
+D:\CodeMDDLL\SomeDLL\SomeDLL\bin\Release\SomeDLL.dll
+D:\CodeMDDLL\SomeDLL\SomeDLL\bin\Release\SomeDLL.pdb
+D:\CodeMDDLL\SomeDLL\SomeDLL\obj\Release\SomeDLL.csproj.CoreCompileInputs.cache
+D:\CodeMDDLL\SomeDLL\SomeDLL\obj\Release\SomeDLL.dll
+D:\CodeMDDLL\SomeDLL\SomeDLL\obj\Release\SomeDLL.pdb
+D:\CodeMDDLL\SomeDLL\SomeDLL\obj\Release\SomeDLL.csproj.AssemblyReference.cache
